@@ -1,0 +1,51 @@
+{
+    "playerok": {
+        "api": {
+            "cookies": "__ddg10_=1781554880; __ddg9_=95.85.228.212; _ym_visorc=b; __ddg1_=BFNhCguhMAOzN2Pv4WxR; _ym_isad=2; _tt_enable_cookie=1; auid=1f13593d-4d04-6680-c6a4-d56ec6319bea; __ddg8_=TBFzDvl6zpTfrp3z; _ttp=01KNY2F6ZZNY3QZVQB0MSDN17W_.tt.1; _ym_d=1775904452; _ym_uid=1775904452824640347; domain_sid=bceV7XB_bwQqh7AKIcPcu%3A1781554808948; fakeauid=1eb11ba9c875af0127892b7505542d4e; need_page_reload=false; tmr_detect=0%7C1781554810000; tmr_lvid=ff39ce7a251f8216570c1a578e55114f; tmr_lvidTS=1776440183211; token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZjAxMDU4NC1lMjgwLTZmMjAtNzM4MC1mMTc4ZGFlMjYwM2IiLCJpZGVudGl0eSI6IjFmMDEwNTg0LWUyODUtNmQ0MC1hMzY4LWI5ZWJhMTBjNTIxOSIsInJvbGUiOiJVU0VSIiwidiI6MSwiaWF0IjoxNzc1OTA0NTQzLCJleHAiOjE4MDc0NDA1NDN9.PANhzaNBYUDxRr1ygce2Nt7gT7eyRXZdawJs_oQObLc; ttcsid=1781554808217::pAD5qz9JPoJ3nOrUbNBh.6.1781554812006.0::1.903.0::391.1.334.724::0.0.0; ttcsid_D3OFSBRC77UED4260FFG=1781554808216::rSAM2QceFGuW2Y6MoXZ6.6.1781554812008.1",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "proxy": "",
+            "requests_timeout": 30
+        },
+        "watermark": {
+            "enabled": true,
+            "value": "©️ 𝗣𝗹𝗮𝘆𝗲𝗿𝗼𝗸 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹"
+        },
+        "read_chat": true,
+        "auto_restore_items": {"sold": true, "expired": false, "all": true},
+        "auto_complete_deals": {"enabled": false, "all": true},
+        "auto_bump_items": {"enabled": false, "interval": 3600, "all": false, "last_time": ""},
+        "auto_withdrawal": {"enabled": false, "interval": 86400, "last_time": "", "credentials_type": "", "card_id": "", "sbp_bank_id": "", "sbp_phone_number": "", "usdt_address": ""},
+        "notifications": {
+            "enabled": true,
+            "chat_id": "5373183517",
+            "events": {
+                "new_user_message": true,
+                "new_system_message": true,
+                "new_deal": true,
+                "new_review": true,
+                "new_problem": true,
+                "deal_status_changed": true,
+                "item_restored": true,
+                "item_bumped": true,
+                "withdrawal_requested": true
+            }
+        }
+    },
+    "telegram": {
+        "api": {
+            "token": "8877784059:AAECK1r0mpUfShM5epSFVjOc5foYFJWIZkA",
+            "proxy": ""
+        },
+        "bot": {
+            "password": "Abik2100",
+            "signed_users": []
+        }
+    },
+    "updates": {
+        "auto_update": false,
+        "notify": false
+    },
+    "logs": {
+        "max_file_size": 512
+    }
+}
