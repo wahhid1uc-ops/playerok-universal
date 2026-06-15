@@ -6,7 +6,6 @@ requests==2.32.3
 requests[socks]
 requests-toolbelt==0.10.1
 validators==0.34.0
-asyncio==3.4.3
 aiogram>=3.11
 aiohttp-socks
 lxml==5.2.2
@@ -19,3 +18,4 @@ setuptools==75.8.0
 tqdm==4.67.1
 pytz==2025.2
 rarfile==4.2
+packaging
