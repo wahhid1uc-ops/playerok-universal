@@ -182,9 +182,10 @@ def call_seller_kb(chat_id: str):
     ]
     kb = InlineKeyboardMarkup(inline_keyboard=rows)
     return kb
-    import runpy as _runpy
-import os as _os
+    import os
+import sys
 
-if __name__ == "__main__":
-    _os.chdir("/app")
-    _runpy.run_path("bot.py", run_name="__main__")
+sys.path.insert(0, "/app")
+os.chdir("/app")
+
+import bot
